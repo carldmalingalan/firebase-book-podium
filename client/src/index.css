@@ -1,0 +1,29 @@
+.card {
+  margin: 15px;
+}
+
+.panel-card {
+  background-color: #fff;
+  border-radius: 2.5px;
+  box-shadow: 1.5px 1px 2px 1px #aaa;
+  width: 80%;
+  padding: 10px;
+  height: auto;
+  margin: 20px auto;
+  min-height: 200px;
+  max-height: 350px;
+  min-width: 100px;
+  overflow: auto;
+}
+
+.custom-alert {
+  background-color: transparent;
+  border: 1px solid #84fd88;
+  color: #007c04;
+  width: 90%;
+  border-radius: 3px;
+  margin: 10px auto;
+  padding: 5px 10px;
+  height: auto;
+  max-height: 50px;
+}
